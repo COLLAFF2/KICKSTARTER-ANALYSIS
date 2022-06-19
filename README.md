@@ -3,7 +3,7 @@ PERFORMING ANALYSIS ON KICKSTARTER DATA TO UNCOVER TRENDS
 # Kickstarting with Excel
 
 ## Overview of Project
-
+Looking for trends based on launch dates and goals.
 ### Purpose
 
 ## Analysis and Challenges
