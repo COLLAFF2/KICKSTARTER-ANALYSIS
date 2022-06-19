@@ -5,15 +5,17 @@ PERFORMING ANALYSIS ON KICKSTARTER DATA TO UNCOVER TRENDS
 ## Overview of Project
 Looking for trends based on launch dates and goals.
 ### Purpose
-
+Looking to see if there is a correlation in the length of campaign and the amount of the set goal.
 ## Analysis and Challenges
+May and June were the most successful months for the campaign . Also, campaigns that had goal under twenty thousand  had a higher percentage of success. The analysis would be even more helpful if we  could see if the success rate in months and goals correlate. Do the successful months have lower goals set?
 
 ### Analysis of Outcomes Based on Launch Date
+May and June had high rates of success. July aslo did well. Where as December had the lowest rate of success.
 
 ### Analysis of Outcomes Based on Goals
-
+ The campaigns that had set goal of twenty thousand or less had a higher rate of success. The rate of success was highest when the goal was a thousand or less. Also the highest rate of failure was when the goal was  forty-five thousand or higher. 
 ### Challenges and Difficulties Encountered
-
+Challenge is that we don't have data that shows if the rate of successful months had to do with the goal set.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
