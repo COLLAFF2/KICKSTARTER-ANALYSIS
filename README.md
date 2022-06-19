@@ -7,7 +7,7 @@ Looking for trends based on launch dates and goals.
 ### Purpose
 Looking to see if there is a correlation in the length of campaign and the amount of the set goal.
 ## Analysis and Challenges
-May and June were the most successful months for the campaign . Also, campaigns that had goal under twenty thousand  had a higher percentage of success. The analysis would be even more helpful if we  could see if the success rate in months and goals correlate. Do the successful months have lower goals set?
+May and June were the most successful months for the campaign . Also, campaigns that had goals set under twenty thousand  had a higher percentage of success. The analysis would be even more helpful if we  could see if the success rate in months and goals correlate. Do the successful months have lower goals set?
 
 ### Analysis of Outcomes Based on Launch Date
 May and June had high rates of success. July aslo did well. Where as December had the lowest rate of success.
