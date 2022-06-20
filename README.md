@@ -19,7 +19,7 @@ PERFORMING ANALYSIS ON KICKSTARTER DATA TO UNCOVER TRENDS
 ### Analysis of Outcomes Based on Launch Date
 
  Collected data on the parent category and years. I used a pivot table to help filter by years and theater.In this pivot table we used the count of outcomes of successful, failed , live, and canceled campaigns based on the month of the year.
- May and June had high rates of success. July aslo did well. Where as December had the lowest rate of success. Th![theater_outcomes_vs_launch](https://user-images.githubusercontent.com/107623913/174672512-c7f1e93d-f307-4fa1-ba46-649cb24fad00.png)
+ May and June had high rates of success. July aslo did well. Where as December had the lowest rate of success. [theater_outcomes_vs_launch](https://user-images.githubusercontent.com/107623913/174672512-c7f1e93d-f307-4fa1-ba46-649cb24fad00.png)
 
 
 ### Analysis of Outcomes Based on Goals
