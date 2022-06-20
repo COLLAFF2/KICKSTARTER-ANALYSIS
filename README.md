@@ -32,4 +32,4 @@ The most successful month was May. June and July did well also.December had almo
 
 - What are some other possible tables and/or graphs that we could create?
 -Graphs showing the success rate between campaign goal and months.
-![theater_outcomes_vs_launch](https://user-images.githubusercontent.com/107623913/174672512-c7f1e93d-f307-4fa1-ba46-649cb24fad00.png)
+
